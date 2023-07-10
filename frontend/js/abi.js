@@ -1469,7 +1469,7 @@
           "type": "function"
         }
       ];
-      const address = "0x33ce68f0c15638cecf6728f914a51a05e7d9af5a"; //Replace with your own contract address
+      const address = "0x1eCF5Ca251be2714F30a3E32bD29611c9b0295Ff"; //Replace with your own contract address
     </script>
 
     <script>
